@@ -1,5 +1,5 @@
 # cs61b-2023-spring
-awesome course!
+### awesome course!
 
 https://sp23.datastructur.es/
 
